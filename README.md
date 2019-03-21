@@ -1,0 +1,2 @@
+# DataMiningProject
+包含一些比较常见的数据挖掘竞赛或者项目的源码
