@@ -36,3 +36,9 @@ def DTW(s1, s2):
         p.insert(0,i)
         q.insert(0,j)
         return D1[-1,-1]
+if __name__ == "__main__":
+    # 测试DTW计算结果
+    import numpy as np
+    s1 = np.array([1, 2, 3, 4, 5, 5, 5, 4])
+    s2 = np.array([3, 4, 5, 5, 5, 4])
+    print(DTW(s1,s2))
