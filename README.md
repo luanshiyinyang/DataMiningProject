@@ -4,7 +4,7 @@
 	- 本项目使用的数据集来自Kaggle，[下载地址给出](https://www.kaggle.com/skihikingkevin/pubg-match-deaths/data)。
 - 环境配置
 	- Python3
-	- 需要的第三方包在[requirements.txt]给出
+	- 需要的第三方包在[requirements.txt](https://github.com/luanshiyinyang/DataMiningProject/tree/PUBG/requirements.txt)给出
 - 数据获取
 	- 利用上面的链接即可下载数据集，数据量较大，习惯NoteBook的可以直接在Kaggle Kernel上运行，具体操作见[之前博客](https://blog.csdn.net/zhouchen1998/article/details/89388878)。
 	- 数据集下载解压后得到如下四个文件。
@@ -115,4 +115,4 @@
 - 补充说明
 	- EDA思路参考“Alfred数据室”，代码实现不同。
 	- 具体数据集地址给出（20G），不可能上传，故Github只有背景图与NoteBook文件。
-	- 具体代码见我的Github，欢迎star或者fork。
+	- 具体代码见[我的Github](https://github.com/luanshiyinyang/DataMiningProject/tree/PUBG)，欢迎star或者fork。
